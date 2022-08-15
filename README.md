@@ -22,3 +22,10 @@ A simple website is build using Django framework wherein the Deep Learning model
 
 ## Prediction
 ![GitHub Footer](screenshots/6.png)
+
+## Authors
+
+* **Yash Mahajan** - *Initial work* - [yashm-1910](https://github.com/yashm-1910)
+* **Deep Mehta** - *Initial work* - [deepmehta27](https://github.com/deepmehta27)
+* **Joel Miranda** - *Initial work* - [joel-cr7](https://github.com/joel-cr7)
+* **Ron Pinto** - *Initial work* - [Ron2001-lab](https://github.com/Ron2001-lab)
